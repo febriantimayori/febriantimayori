@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Febi</h1>
 <h3 align="center">Informatics Engineering Student | Frontend Enthusiast (?)</h3>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=febriantimayori&label=Profile%20views&color=0e75b6&style=flat" alt="febriantimayori" />
-</p>
+</p> -->
 
 - 🎓 I'm an undergraduate student at **State Polytechnic of Malang**, majoring in **Informatics Engineering**  
 - 📫 How to reach me: **febriantimayori@gmail.com**  
@@ -34,6 +34,6 @@
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=febriantimayori&show_icons=true&theme=dark&locale=en" alt="febriantimayori" />
-</p>
+</p> -->
