@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Febi</h1>
-<h3 align="center">Informatics Engineering Student | Frontend Enthusiast & QA Learner</h3>
+<h3 align="center">Informatics Engineering Student | Frontend Enthusiast (?)</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=febriantimayori&label=Profile%20views&color=0e75b6&style=flat" alt="febriantimayori" />
@@ -7,7 +7,6 @@
 
 - 🎓 I'm an undergraduate student at **State Polytechnic of Malang**, majoring in **Informatics Engineering**  
 - 📫 How to reach me: **febriantimayori@gmail.com**  
-- ⚡ Fun fact: I like sunset, ehe...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
